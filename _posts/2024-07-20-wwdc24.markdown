@@ -1,0 +1,187 @@
+---
+layout: post
+title:  "WWDC24 at Apple Park"
+date:   2024-07-20 12:00:00 +0200
+categories: conference
+---
+
+<div>
+
+    <img src="/assets/img/header_image.jpeg">
+
+</div>
+<span style="color:gray">*Walking around Apple Park is nothing but magical*</span>
+<br/>
+
+Absolutely amazing! That is the thing that comes to my mind when I think about my visit to the Worldwide Developers Conference 2024 at Apple Park in Cupertino last month (June 9 - June 11, 2024).
+
+On April 4th, 2024, my colleague [Frank Solleveld](https://x.com/FrankSolleveld) sent me a screenshot of his Apple invitation that he received by mail. With light speed, I opened my mail and looked for an invite myself. Lo and behold, there was an invite for me too!
+
+<div>
+
+    <img src="/assets/img/invite.png">
+
+</div>
+<span style="color:gray">*The invite from Apple*</span>
+<br/>
+<br/>
+
+I was through the roof excited! Since 2011 I have been working in the Apple world at Amac (an Apple Premium Reseller in The Netherlands), and of course I am an iOS developer, so visiting WWDC is the icing on the cake in my professional (but also personal) existence.
+
+At the same time I was thinking: "How in the world am I going to arrange everything?!" Quickly Frank and I started looking into the flight, accommodation, local transport etc. My friends [Gianpiero Spinelli](https://x.com/gianpispi) and [Kristof Kocsis](https://x.com/kristofkocsis), who I know from the Apple Developer Academy in Naples, were also invited and we arranged that we would go to WWDC together. We decided to fly to San Francisco on the 7th of June and back at the 15th.
+
+On the 7th of June, our flight to San Francisco Airport departed at 14:50 from Schiphol Airport. Eleven hours later, we arrived at 17:30 local time. Gianpiero had already landed from Italy, and we met him after immigration. We then picked up our rental and drove off to our apartment in Sunnyvale.
+
+While driving to Sunnyvale, we actually drove by Apple Park. We only got to see a little sneak peek of the roof, but still, it felt magical to observe it with your own eyes. The rest of the day, we relaxed a little before we went to bed.
+
+<div>
+
+    <img src="/assets/img/car_rental.jpeg">
+
+</div>
+<span style="color:gray">*Getting our Volvo from the rental*</span>
+<br/>
+<br/>
+
+I personally slept like hell because I think I never reached actual sleep that night, probably because of jetlag. That morning we all got up quite early, and after some coffee, a shower, and breakfast, we went to visit the Apple Park Visitor Center. Since we were a little early, we went for a little walk around the campus area. Even the bus stop seems to be designed by Apple!
+
+
+<div style="display: flex; justify-content: space-around; ">
+
+    <img src="/assets/img/busstop.jpeg" style="width: 30%;">
+    <img src="/assets/img/visitor_center.jpeg" style="width: 30%;">
+    <img src="/assets/img/roof_center.jpeg" style="width: 30%;">
+
+</div>
+<span style="color:gray">*Left: A very Apple-ish bus stop*</span>
+<br/>
+<span style="color:gray">*Middle: Apple Park Visitor Center from the outside*</span>
+<br/>
+<span style="color:gray">*Right: A nice view from the Visitor Center onto Apple Park*</span>
+<br/>
+<br/>
+
+The Apple Park Visitor Center is also an Apple Store and the only store that sells Apple merchandise. I couldn’t resist myself and, under the guise of *‘one does not know when this place will be visited again’*, I bought four Apple shirts, a mug, and an aluminium pen.
+
+Later that day, we visited the Apple Store Valley Fair because one of us needed an American plug. They still had a spot available for an Apple Vision Pro demo, so of course, I took it. At the time of writing, the Apple Vision Pro (AVP) is not available in The Netherlands, so the only official place to try one out is at a US Apple Store. The experience with the AVP is interesting. The demo given by the Apple Store employee was very nice, and she also demonstrated it well. The thing that I actually remembered best is the spatial video that was recorded on AVP. Despite the recording being not of the highest resolution, it still looked quite amazing. If these experiences get better over time, watching videos like these might be a nice feature for the device. I’m currently working on bringing [Pomodoreau](https://pomodoreau.com) to iOS, and VisionOS is of course also on the planning, but I couldn’t see myself buying the device at the moment.
+
+<div>
+
+    <img src="/assets/img/vision_pro.jpeg">
+
+</div>
+<span style="color:gray">*Trying out the Apple Vision Pro at Apple Store Valley Fair*</span>
+<br/>
+<br/>
+
+After having some food at the mall, we drove back to the Visitor Center. It also has a coffee bar (Caffè Macs), and we decided to get a coffee there. On the roof, we met other developers and even some Apple Engineers, with whom we had a nice chat. We would meet a lot of them again during the week! All around the event, there are community-organized events, at bars, restaurants, and squares. I learned that some people (who live relatively close to Cupertino/California) just visit the area just for all the community events, because by itself, it already brings so much value. It is really a great way to network with people.
+
+<div>
+
+    <img src="/assets/img/roof_developers.jpeg">
+
+</div>
+<span style="color:gray">*Hanging out with fellow developers and Apple engineers*</span>
+<br/>
+<br/>
+
+On the 9th of June, we had the welcome reception at the Apple Infinite Loop Campus. Infinite Loop is Apple’s former HQ, but still carries a lot of legacy. Steve Jobs worked on these premises, and it feels special to be there. We stood in line for some time until we got inside the reception area, where we received our badge and a goodie bag. Inside, Apple arranged lots of things: different stands with food, nice drinks, different spots to chill in the Californian sun (and shade), and you could also have a look at the Apple Design Awards! They had one ‘demo’ version you could hold, so of course, I did, and they’re heavy! I got to shake hands and take a picture with Paul Hudson, talked with Moritz from [Create with Swift](https://www.createwithswift.com), and with various Apple engineers. It was just a very nice afternoon, where at one point where I was drinking my bubbles, I felt very grateful and happy to be there.
+
+<div style="display: flex; justify-content: space-around; ">
+
+    <img src="/assets/img/logo_garden.jpeg" style="width: 45%;">
+    <img src="/assets/img/design_award.jpeg" style="width: 45%;">
+
+</div>
+<br/>
+<div style="display: flex; justify-content: space-around; ">
+
+    <img src="/assets/img/access_card.jpeg" style="width: 30%;">
+    <img src="/assets/img/sunny_drink.jpeg" style="width: 30%;">
+    <img src="/assets/img/paul_hudson.jpeg" style="width: 30%;">
+
+</div>
+<span style="color:gray">*Top left: The WWDC24 logo in the garden of Infinite Loop*</span>
+<br/>
+<span style="color:gray">*Top right: Holding one of the demo Apple Design Awards*</span>
+<br/>
+<span style="color:gray">*Bottom left: The access card to enter Apple's premises. Works with NFC!*</span>
+<br/>
+<span style="color:gray">*Bottom middle: La dolce vita, enjoying the weather, atmosphere and drinks at Apple*</span>
+<br/>
+<span style="color:gray">*Bottom right: A selfie with Paul Hudson*</span>
+<br/>
+<br/>
+
+Later that night [RevenueCat](http://revenuecat.com) organized a party in downtown San Jose. Also here a lot of devs and engineers where present and were more than open to talk about everything Apple. Thanks to RevenueCat for the goodies (stickers, pins and even keys for a mechanical keyboard) and event!
+
+<div style="display: flex; justify-content: space-around; ">
+
+    <img src="/assets/img/revenuecat_street.jpeg" style="width: 45%;">
+    <img src="/assets/img/revenuecat_goodies.jpeg" style="width: 45%;">
+
+</div>
+<span style="color:gray">*Left: Walking to the RevenueCat event in San Jose*</span>
+<br/>
+<span style="color:gray">*Right: The goodie table at the event*</span>
+<br/>
+<br/>
+
+On June 10th, it was keynote day! At already around 08:00h in the morning, we were standing in line at the Apple Park Visitor Center. Yes, that’s quite early, but we were waking up early anyway. Also, Apple arranged a big variety of breakfast options (which was infinitely better than what the hotel offered). While waiting in line, they offered some nice coffee and breakfast snacks.
+
+Slowly but steadily, there was progress in the queue, and at the entrance of Apple Park itself, our entrance cards were scanned with an iPhone. Then we were allowed onto the premises, and we could observe the *spaceship building* from close by! It’s unreal to see it from so close, and it really looks amazing (and incredibly expensive, which it also is) to walk by.
+
+We walked all the way to the restaurant (which is also called Caffè Macs), which is HUGE. Both in the restaurant and outside under a sunroof, chairs were placed, and multiple screens were put up for people to watch the keynote. In the restaurant, as mentioned earlier, there were many dishes and drinks available. We had some time to explore the area we were in until the beginning of the keynote at 10:00h. Also, Greg Joswiak, SVP of Worldwide Marketing at Apple, was walking around and open to talking with the people walking around. I made small talk with him and took a selfie with him.
+
+<div style="display: flex; justify-content: space-around; ">
+
+    <img src="/assets/img/ApplePark_outside.jpeg" style="width: 30%;">
+    <img src="/assets/img/caffemacs.jpeg" style="width: 30%;">
+    <img src="/assets/img/sunroof.jpeg" style="width: 30%;">
+
+</div>
+<span style="color:gray">*Left: Walking by Apple Park in the morning*</span>
+<br/>
+<span style="color:gray">*Middle: Me standing in Caffè Macs*</span>
+<br/>
+<span style="color:gray">*Right: The chairs that were put outside under the sunroof the watch the keynote at the big outside screen*</span>
+<br/>
+<br/>
+
+At around 5 minutes before the keynote Tim Cook took stage and spoke to the public. It was interesting to see the man that you have seen so many times in keynotes etc. online in real life. After a few minutes also Craig Federighi appeared. They both talked about how much developers were present and about how big the announcements of that day would be. All the announcement can be found at the [WWDC24 Highlights](https://www.apple.com/newsroom/2024/06/wwdc24-highlights/) page.
+
+Between the keynote and the Platform State of the Union (SOTU, a more technical presentation), there was time to lunch and to talk to people. There were some YouTubers walking around, like [iJustine](https://www.youtube.com/user/ijustine), and I’ve also seen Sam Altman, the CEO of OpenAI, walking around. At around 13:00h, Susan Prescott, responsible for Worldwide Developer Relations, introduced the SOTU, after which the video was shown.
+
+Then, after all the presentations, Apple organized all over the restaurant area different spots with Apple engineers of different areas of expertise you could talk to, whether it was Wallet stuff, security, SwiftUI, Bluetooth, you name it… I had some small questions, but if you come really prepared, I think you can get a lot out of the talks. There were also design labs you could go to for extensive feedback about the design of your app.
+
+I also met up with people I knew from my time at the Academy and just enjoyed the weather, the garden inside the center of the building, the food, and worked a little on Pomodoreau. Around Apple Park, some Apple people were handing out extra *collector* pins.
+
+<div style="display: flex; justify-content: space-around; ">
+    <video width="400" controls>
+        <source src="/assets/img/timcook_presentation.MOV" type="video/mp4">
+    </video>
+</div>
+<span style="color:gray">*Tim Cook taking stage right before the keynote*</span>
+<br/>
+<br/>
+
+<div style="display: flex; justify-content: space-around; ">
+
+    <img src="/assets/img/sequoia.jpeg" style="width: 30%;">
+    <img src="/assets/img/ijustine.jpeg" style="width: 30%;">
+    <img src="/assets/img/rainbow_photo.jpeg" style="width: 30%;">
+
+</div>
+<span style="color:gray">*Left: Craig announcing macOS Sequoia during the keynote*</span>
+<br/>
+<span style="color:gray">*Middle: Taking a photo with iJustine*</span>
+<br/>
+<span style="color:gray">*Right: Looking like a world class developers*</span>
+<br/>
+<br/>
+
+The last day, Apple organized Developer Labs in the Apple Developer Center, which is situated next to the Apple Park Visitor Center. Here they invited us for a presentation from different Apple engineers about Apple Intelligence. The main takeaway for me was that by ‘simply’ adding App Intents to every (sensible) action you can take in your app, you can already add much value on multiple levels in iOS (including Spotlight, Shortcuts, Siri, etc…). After the presentation, there were a lot of Apple engineers around you could talk to from various machine learning, language, and AI teams.
+
+We ended the day with [The Talk Show from John Gruber](https://www.youtube.com/watch?v=J7al_Gpolb8). As always, he interviews some Apple executives, and it’s interesting to hear the execs talk a little less scripted and watch them more up close (although the light in the theater was quite poor). It was a nice interview, though not very critical.
+
+In a different post, I might write something about the days after and share some photos of Big Sur and San Francisco, but for now, I want to conclude this post about how amazing, energizing and inspirational this trip was. I met a lot of new people, learned a lot from them and was able to be at the center of Apple. I wouldn't want to have missed this.
